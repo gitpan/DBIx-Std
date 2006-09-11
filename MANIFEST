@@ -1,0 +1,7 @@
+Changes
+Makefile.PL
+MANIFEST
+README
+t/DBIx-Std.t
+lib/DBIx/Std.pm
+META.yml                                 Module meta-data (added by MakeMaker)
